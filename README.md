@@ -6,7 +6,7 @@ Moves the server list from the left to the top of Discord. Compatible with Serve
 
 ## Download
 
-[Download directly](https://github.com/CallMeShepard/OldDiscordUI-HorizontalServerList/raw/deploy/HorizontalServerList.theme.css)
+# [Download directly](https://github.com/CallMeShepard/OldDiscordUI-HorizontalServerList/releases/download/v2.1.0/HorizontalServerList.theme.css)
 
 Powercord Install: git clone https://github.com/CallMeShepard/OldDiscordUI-HorizontalServerList
 
